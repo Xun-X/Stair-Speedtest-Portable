@@ -42,7 +42,7 @@
 
 
 ## 下載地址
-藍揍云：https://www.lanzous.com/i7s7ssd
+藍揍云：https://www.lanzous.com/i7sdxvc
 
 ------------
 　.
@@ -106,7 +106,7 @@
 方案5：`上传到 http://www.virscan.org 在线病毒扫描（有报毒就别用了，有人想害你）`
 
 ## 下载地址
-蓝揍云：https://www.lanzous.com/i7s7ssd
+蓝揍云：https://www.lanzous.com/i7sdxvc
 
 
 [ ](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Badge.png?raw=true " ")
