@@ -1,3 +1,4 @@
+`最新版本：V1.2.5`
 ## SSR/V2Ray 测速工具 便携版 (免編譯、免設置、EXE程式)
 [![Xun-X](https://i.ibb.co/n0jsdf3/Badge.png)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
@@ -42,7 +43,7 @@
 
 
 ## 下載地址
-藍揍云：https://www.lanzous.com/i7sdxvc
+藍揍云：https://www.lanzous.com/i7seayd
 
 ------------
 　.
@@ -106,7 +107,7 @@
 方案5：`上传到 http://www.virscan.org 在线病毒扫描（有报毒就别用了，有人想害你）`
 
 ## 下载地址
-蓝揍云：https://www.lanzous.com/i7sdxvc
+蓝揍云：https://www.lanzous.com/i7seayd
 
 
 [ ](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Badge.png?raw=true " ")
