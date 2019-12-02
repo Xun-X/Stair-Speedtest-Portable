@@ -71,6 +71,8 @@
 
 
 ## SSR测速 & V2RAY测速 & 订阅地址批量测速
+[![Xun-X](https://i.ibb.co/n0jsdf3/Badge.png)](https://github.com/Xun-X/Stair-Speedtest-Portable)
+
 `SSR测速` `V2RAY测速` `SSR订阅地址测速` `V2RAY订阅地址测速`
 
 ------------
