@@ -131,13 +131,13 @@
 [![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_GUI_default.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
-## 进阶功能：
+## 进阶界面：
 [![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_GUI_advanced.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
-## 自动保存的测速记录截图（进阶-包含平均速度和最高速度）：
+## 进阶模式-开启导出峰值-测速完后会保存平均速度和最高速度记录文件(htm、log、png)：
 [![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_advanced.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
-## 自动保存的测速记录截图（基本-只保存平均速度）：
+## 基本模式-测速完后默认只保存平均速度记录文件(htm、log、png)：
 [![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_default.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
