@@ -12,7 +12,7 @@
 ## 版本（最底部有演示截图）
 最新版本：`V1.2.5`
 
-## 實現方式（懶人就不用管了，運行可以測速了）
+## 實現方式（懶人就不用管了，運行就可以測速了）
 
 因為做成了單個EXE文件，啟動后會`自動`寫出必要的組件到運行目錄下的`[STAIR_SPEED_TEST]`資料夾
 
@@ -128,16 +128,16 @@
 
 
 ## 基本界面：
-[![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_default.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
+[![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_GUI_default.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
 ## 进阶功能：
-[![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_advanced.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
+[![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_GUI_advanced.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
 ## 自动保存的测速记录截图（进阶-包含平均速度和最高速度）：
-[![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_advanced2.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
+[![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_advanced.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
 ## 自动保存的测速记录截图（基本-只保存平均速度）：
-[![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_default2.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
+[![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_default.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
