@@ -47,11 +47,8 @@
 
 方案5：`上傳到 http://www.virscan.org 線上病毒掃描（有報毒就別用了，有人想害你）`
 
-方案6：`上傳到 https://www.virustotal.com 線上病毒掃描（有報毒就別用了，同上）`
 
 # 下載地址
-
-[查看 VirusTotal 線上掃描病毒結果](https://www.virustotal.com/gui/file/1966c9aaef52fa124efdc3ac780c79b4e23e99f0896a61bc7462b61afc966bba/detection "查看 VirusTotal 線上掃描病毒結果")
 
 MD5：FFB2C89952F62ADEEDE8FC8CB205A235
 
@@ -126,11 +123,7 @@ MD5：FFB2C89952F62ADEEDE8FC8CB205A235
 
 方案5：`上传到 http://www.virscan.org 在线病毒扫描（有报毒就别用了，有人想害你）`
 
-方案6：`上傳到 https://www.virustotal.com 在线病毒扫描（有报毒就別用了，同上）`
-
 # 下载地址
-
-[查看 VirusTotal 在线扫描病毒结果](https://www.virustotal.com/gui/file/1966c9aaef52fa124efdc3ac780c79b4e23e99f0896a61bc7462b61afc966bba/detection "查看 VirusTotal 在线扫描病毒结果")
 
 MD5：FFB2C89952F62ADEEDE8FC8CB205A235
 
