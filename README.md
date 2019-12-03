@@ -12,7 +12,8 @@
 
 
 ## 版本（最底部有演示截图）
-最新版本：`V1.2.5`
+最新版本：`V1.2.6`
+
 
 ## 實現方式（懶人就不用管了，運行就可以測速了）
 
@@ -49,7 +50,7 @@
 方案6：`上傳到 https://www.virustotal.com 線上病毒掃描（有報毒就別用了，同上）`
 
 # 下載地址
-藍奏云：https://www.lanzous.com/i7seayd
+藍奏云：https://www.lanzous.com/i7tvv7a
 
 ------------
 　.
@@ -123,7 +124,7 @@
 方案6：`上傳到 https://www.virustotal.com 在线病毒扫描（有报毒就別用了，同上）`
 
 # 下载地址
-蓝奏云：https://www.lanzous.com/i7seayd
+蓝奏云：https://www.lanzous.com/i7tvv7a
 
 
 [ ](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Badge.png?raw=true " ")
