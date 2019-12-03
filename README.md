@@ -137,9 +137,13 @@
 
 ## 进阶模式（测速记录文件）：
 进阶模式----开启导出峰值-测速完后会保存平均速度和最高速度记录文件(htm、log、png)：
+
+
 [![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_advanced.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
 ## 基本模式（测速记录文件）：
 基本模式----测速完后默认只保存平均速度记录文件(htm、log、png)
+
+
 [![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_default.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
