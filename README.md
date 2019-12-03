@@ -1,5 +1,5 @@
 ## SSR/V2Ray 测速工具 便携版 (免編譯、免設置、EXE程式)
-[![Xun-X](https://i.ibb.co/n0jsdf3/Badge.png)](https://github.com/Xun-X/Stair-Speedtest-Portable)
+[![Xun-X](https://raw.githubusercontent.com/Xun-X/Stair-Speedtest-Portable/master/Badge.png)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 `SSR測速` `V2RAY測速` `SSR訂閱地址測速` `V2RAY訂閱地址測速`
 
