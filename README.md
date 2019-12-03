@@ -143,8 +143,9 @@
  
 
 ------------
-# 演示截图
+# 演示截圖
 
+(中國大陸地區可能看不到，請越墻后查看)
 ------------
 
 
@@ -152,19 +153,19 @@
 [![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_GUI_default.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
-## 进阶界面：
+## 進階界面：
 [![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_GUI_advanced.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
-## 进阶模式（测速记录文件）：
-进阶模式----开启导出峰值-测速完后会保存平均速度和最高速度记录文件(htm、log、png)：
+## 進階模式（測速記錄檔案）：
+進階模式----開啟導出峰值-測速完成后悔自動保存[平均速度]和[最高速度]的記錄檔案(三份檔案格式分別為：htm、log、png)：
 
 
 [![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_advanced.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
-## 基本模式（测速记录文件）：
-基本模式----测速完后默认只保存平均速度记录文件(htm、log、png)
+## 基本模式（測速記錄檔案）：
+基本模式----測速完后默認只保存[平均速度]的記錄檔案(三份檔案格式分別為：htm、log、png)
 
 
 [![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_default.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
