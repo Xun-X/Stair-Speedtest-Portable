@@ -158,14 +158,14 @@
 
 
 ## 進階模式（測速記錄檔案）：
-進階模式----開啟導出峰值-測速完成后悔自動保存[平均速度]和[最高速度]的記錄檔案(三份檔案格式分別為：htm、log、png)：
+開啟導出峰值-測速完成后自動保存[平均速度]和[最高速度]的記錄檔案(三份檔案格式分別為：htm、log、png)：
 
 
 [![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_advanced.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
 ## 基本模式（測速記錄檔案）：
-基本模式----測速完后默認只保存[平均速度]的記錄檔案(三份檔案格式分別為：htm、log、png)
+測速完后自動保存[平均速度]的記錄檔案(三份檔案格式分別為：htm、log、png)
 
 
 [![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_default.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
