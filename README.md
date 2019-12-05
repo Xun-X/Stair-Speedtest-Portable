@@ -162,22 +162,22 @@ MD5：FFB2C89952F62ADEEDE8FC8CB205A235
 
 
 ## 基本界面：
-[![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_GUI_default.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
+[![Xun-X](https://i.ibb.co/X29SKRV/Screenshot-GUI-default.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
 ## 進階界面：
-[![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_GUI_advanced.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
+[![Xun-X](https://i.ibb.co/4ms3FfN/Screenshot-GUI-advanced.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
 ## 進階模式（測速記錄檔案）：
 開啟導出峰值-測速完成后自動保存[平均速度]和[最高速度]的記錄檔案(三份檔案格式分別為：htm、log、png)：
 
 
-[![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_advanced.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
+[![Xun-X](https://i.ibb.co/BwKQ6bx/Screenshot-advanced.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
 ## 基本模式（測速記錄檔案）：
 測速完后自動保存[平均速度]的記錄檔案(三份檔案格式分別為：htm、log、png)
 
 
-[![Xun-X](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Screenshot_default.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
+[![Xun-X](https://i.ibb.co/4dGGWnG/Screenshot-default.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
