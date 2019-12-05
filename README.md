@@ -1,5 +1,5 @@
 ## SSR/V2Ray 测速工具 便携版 (免編譯、免設置、EXE程式)
-[![Xun-X](https://raw.githubusercontent.com/Xun-X/Stair-Speedtest-Portable/master/Badge.png)](https://github.com/Xun-X/Stair-Speedtest-Portable)
+[![Xun-X](https://i.ibb.co/n0jsdf3/Badge.png)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 `SSR測速` `V2RAY測速` `SSR訂閱地址測速` `V2RAY訂閱地址測速`
 
@@ -138,6 +138,7 @@ MD5：FFB2C89952F62ADEEDE8FC8CB205A235
 为了证明本程序没有病毒作者就给电脑装上了杀毒软件试了试，不试不知道诧异的发现居然说是木马程序，可能是因为运行要释放包含SSR/v2ray/web测速环境以及联网检测版本等行为让杀毒软件不得不怀疑这是病毒程式，作者在这里还是那句话吧，觉得不安全那么请关闭这个页面（当然大陆同胞们越墙可能也不会装类似360全家桶那种极度敏感并且恶心的杀毒软件），但良心告诉我，这件事还是要事先声明，360安全卫士对本程序提醒报毒，不放心就不要用了！
 
 [ ](https://github.com/Xun-X/Stair-Speedtest-Portable/blob/master/Badge.png?raw=true " ")
+[ ](https://raw.githubusercontent.com/Xun-X/Stair-Speedtest-Portable/master/Badge.png " ")
 
 ------------
 　.
