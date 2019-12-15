@@ -12,7 +12,7 @@
 
 
 ## 版本（最底部有演示截图）
-最新版本：`V1.2.7`
+最新版本：`V1.2.8`
 
 
 ## 實現方式（懶人就不用管了，運行就可以測速了）
@@ -49,9 +49,9 @@
 
 # 下載地址
 
-MD5：FDA606052BC275909E099FEBEF1126D0
+MD5：A736B6E8EE28CA36B62D27678BC13E6B
 
-藍奏云：https://www.lanzous.com/i80nt6b
+藍奏云：https://www.lanzous.com/i810ufe
 
 
 # 使用必讀
@@ -96,7 +96,7 @@ MD5：FDA606052BC275909E099FEBEF1126D0
 
 
 ## 版本（最底部有演示截图）
-最新版本：`V1.2.7`
+最新版本：`V1.2.8`
 
 ## 实现方式（懒人就不用管了，运行就可以测速了）
 
@@ -132,9 +132,9 @@ MD5：FDA606052BC275909E099FEBEF1126D0
 
 # 下载地址
 
-MD5：FDA606052BC275909E099FEBEF1126D0
+MD5：A736B6E8EE28CA36B62D27678BC13E6B
 
-蓝奏云：https://www.lanzous.com/i80nt6b
+蓝奏云：https://www.lanzous.com/i810ufe
 
 # 使用必读
 [[查看使用必读]](https://xun-x.github.io/ "查看使用必读")
