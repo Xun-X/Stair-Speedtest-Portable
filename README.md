@@ -53,9 +53,9 @@
 
 # 下載地址
 
-MD5：A736B6E8EE28CA36B62D27678BC13E6B
+MD5：964E86BE200BBC2C24208E3713214A11
 
-藍奏云：https://www.lanzous.com/i810ufe
+藍奏云：https://www.lanzous.com/i8dc4mj
 
 
 # 使用必讀
@@ -140,9 +140,9 @@ MD5：A736B6E8EE28CA36B62D27678BC13E6B
 
 # 下载地址
 
-MD5：A736B6E8EE28CA36B62D27678BC13E6B
+MD5：964E86BE200BBC2C24208E3713214A11
 
-蓝奏云：https://www.lanzous.com/i810ufe
+蓝奏云：https://www.lanzous.com/i8dc4mj
 
 # 使用必读
 [[查看使用必读]](https://xun-x.github.io/ "查看使用必读")
