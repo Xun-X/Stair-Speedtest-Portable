@@ -175,11 +175,11 @@ MD5：964E86BE200BBC2C24208E3713214A11
 
 
 ## 基本界面：
-[![Xun-X](https://i.ibb.co/X29SKRV/Screenshot-GUI-default.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
+[![Xun-X](https://i.ibb.co/jMSch9h/Screenshot-GUI-default.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
 ## 進階界面：
-[![Xun-X](https://i.ibb.co/4ms3FfN/Screenshot-GUI-advanced.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
+[![Xun-X](https://i.ibb.co/rvbFqBB/Screenshot-GUI-advanced.jpg)](https://github.com/Xun-X/Stair-Speedtest-Portable)
 
 
 ## 進階模式（測速記錄檔案）：
