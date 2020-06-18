@@ -30,7 +30,7 @@
 `[STAIR_SPEED_TEST]`資料夾刪除就行了。
 
 
-## 基於[[[Tindy X]](https://github.com/tindy2013 "Tindy X")]的[[[Reborn版本]](https://github.com/tindy2013/stairspeedtest-reborn "Reborn版本")]進行便攜綠化製作
+## 基於[[Tindy X](https://github.com/tindy2013 "Tindy X")]的[[Reborn版本](https://github.com/tindy2013/stairspeedtest-reborn "Reborn版本")]進行便攜綠化製作
 
 未添加任何惡意或盜取個人資料信息的代碼，加入了版本檢測，檢測到新發佈的版本會彈出升級提示
 
@@ -117,7 +117,7 @@ MD5：964E86BE200BBC2C24208E3713214A11
 `[STAIR_SPEED_TEST]`文件夹删除就行了。
 
 
-## 基于[Tindy X]的[Reborn版本]进行便携绿化製作
+## 基于[[Tindy X](https://github.com/tindy2013 "Tindy X")]的[[Reborn版本](https://github.com/tindy2013/stairspeedtest-reborn "Reborn版本")]进行便携绿化製作
 
 未添加任何恶意代码或盗取个人资料信息的代码，加入了版本检测，检测到新发佈的版本会弹出升级提示
 
