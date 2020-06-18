@@ -30,7 +30,7 @@
 `[STAIR_SPEED_TEST]`資料夾刪除就行了。
 
 
-## 基於[Tindy X]的[Reborn版本]進行便攜綠化製作
+## 基於[[[Tindy X]](https://github.com/tindy2013 "Tindy X")]的[[[Reborn版本]](https://github.com/tindy2013/stairspeedtest-reborn "Reborn版本")]進行便攜綠化製作
 
 未添加任何惡意或盜取個人資料信息的代碼，加入了版本檢測，檢測到新發佈的版本會彈出升級提示
 
