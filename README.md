@@ -53,9 +53,9 @@
 
 # 下載地址
 
-MD5：514185CE9FD632FAA296B5F0F9FAAD1E (EXE)
+MD5：2FCB3DFD7AEE0215235458D4BFFB1D93 (EXE)
 
-藍奏云：https://wwa.lanzous.com/i2kgNecmh4j
+藍奏云：https://wwi.lanzoui.com/iMKiFpfa8xg
 
 
 # 使用必讀
@@ -140,9 +140,9 @@ MD5：514185CE9FD632FAA296B5F0F9FAAD1E (EXE)
 
 # 下载地址
 
-MD5：514185CE9FD632FAA296B5F0F9FAAD1E (解压缩后EXE)
+MD5：2FCB3DFD7AEE0215235458D4BFFB1D93 (解压缩后EXE)
 
-蓝奏云：https://wwa.lanzous.com/i2kgNecmh4j
+蓝奏云：https://wwi.lanzoui.com/iMKiFpfa8xg
 
 # 使用必读
 [[查看使用必读]](https://xun-x.github.io/ "查看使用必读")
