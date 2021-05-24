@@ -55,7 +55,7 @@
 
 MD5：2FCB3DFD7AEE0215235458D4BFFB1D93 (EXE)
 
-藍奏云：https://wwi.lanzoui.com/igfwupfze7g
+藍奏云：https://wwi.lanzoui.com/iZvvypfzjji
 
 
 # 使用必讀
@@ -142,7 +142,7 @@ MD5：2FCB3DFD7AEE0215235458D4BFFB1D93 (EXE)
 
 MD5：2FCB3DFD7AEE0215235458D4BFFB1D93 (解压缩后EXE)
 
-蓝奏云：https://wwi.lanzoui.com/igfwupfze7g
+蓝奏云：https://wwi.lanzoui.com/iZvvypfzjji
 
 # 使用必读
 [[查看使用必读]](https://xun-x.github.io/ "查看使用必读")
